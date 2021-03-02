@@ -42,5 +42,4 @@ feature is awesome and needs to be merged as soon as possible.
 ## Thank you :)
 
 
-By contributing to this repository, you become an actor of it. May
-the future be with it!
+By contributing to this repository, you become an actor of it. May the future be with it!
